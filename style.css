@@ -12,6 +12,7 @@ top
 .Home{
   background-color: rgb(27, 4, 161);
   height: 500px;
+
 }
 .Home:hover{
   background-color:teal ;
@@ -21,12 +22,16 @@ top
 
 }
 .banner img{
+  position:absolute;
   transition: width 5s;
   margin-top: 80px;
   margin-left: 180px;
      width: 330px;
      height: 474;
      
+}
+.banner img:hover{
+  transform: rotate(20deg);
 }
 .banner h1{
   color: white;

@@ -1,32 +1,10 @@
+
 /*---- 
 top
 --------------*/
 *{
   margin: 0;
   padding: 0;
-}
-/*---------------
-navbar
---------------------------*/
-.navbar{
-  display: flex;
-margin-top: 30px;
-  justify-content:center;
- list-style: none;
-margin-left: 100px;
-}
-.navbar ul{
-  display: flex;
-  text-align: center;
-  justify-content: center;
-  list-style: none;
-
-}
-.navbar ul li a {
-  color: white;
-  margin: 30px;
-  margin-top: 30px;
-  text-decoration: none;
 }
 /*------------------
            home
@@ -149,6 +127,8 @@ align-items: center;
   justify-content: center;
   margin-top: 10px;
 }
+
+
 /*--------
  The End
  --------*/
